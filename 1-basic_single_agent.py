@@ -1,4 +1,4 @@
-# https://github.com/tezansahu/building-ai-agents-with-autogen/tree/master/0-Environment-Setup
+
 # pip install autogen-agentchat autogen-ext openai python-dotenv
 # create .env file and add OPENAI_API_KEY
 
@@ -80,4 +80,5 @@ if __name__ == "__main__":
 # 1. I'm a college student studying computer science, but I'm not sure what career path to follow.  # Related to career development.
 # 2. What are the best practices making my resume stand out from the crowd?                         # Related to career development.
 # 3. What is the weather today in Bangalore?                                                        # Not related to career development.
+
 # 4. Can you help me figure out what options might suit my skills and interests?                    # Related to career development - multi-turn expected

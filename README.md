@@ -1,1 +1,3 @@
-# Basic-single-agent
+This project demonstrates a minimal working example of an AI agent built using Autogen AgentChat and OpenAI models. It shows how to create a single AssistantAgent that can receive user input, process it using an LLM, and stream responses back to the console. The project includes clean API key handling using .env, simple setup instructions, and can serve as a starter template for building more advanced multi-agent or task‑oriented AI systems.
+
+This repository contains a minimal example to run a single AssistantAgent using the autogen-agentchat and autogen-ext libraries with OpenAI model client.
